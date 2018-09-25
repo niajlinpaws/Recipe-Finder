@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
-//import logo from './logo.svg';
-// import './App.css';
+
 import RecipeList from './components/RecipeList';
 import Footer from './components/Footer';
 import axios from 'axios';
